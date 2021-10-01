@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://localhost/node-mongo-api",
+    "secret": "asdnkejwrhiuhSDWED324!@#ASDSr324SD"
+}

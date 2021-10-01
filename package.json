@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raj950815/node-api"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "author": "raj",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-jwt": "^6.1.0",
+    "mongoose": "^5.9.21",
+    "rootpath": "^0.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
